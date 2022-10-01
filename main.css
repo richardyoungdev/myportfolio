@@ -1,21 +1,19 @@
 main {
-    /* border: 10px solid pink; */
-    min-height: 82vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  /* border: 10px solid pink; */
+  min-height: 82vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
-
-
 main h2 {
-    /* border: 10px solid green; */
-    margin: 10px;
-    color: var(--grey);
+  /* border: 10px solid green; */
+  margin: 10px;
+  color: var(--grey);
 }
 
 .short-bio {
-    width: 700px;
+  width: 700px;
 }
