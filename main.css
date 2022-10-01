@@ -15,3 +15,7 @@ main h2 {
     margin: 10px;
     color: var(--grey);
 }
+
+.short-bio {
+    width: 700px;
+}
