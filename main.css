@@ -8,6 +8,10 @@ main {
   text-align: center;
 }
 
+h1 {
+  color: aqua;
+}
+
 main h2 {
   /* border: 10px solid green; */
   margin: 10px;
