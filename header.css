@@ -34,7 +34,7 @@ header {
 }
 
 .nav-right a:hover {
-  color: aqua;
+  color: var(--green);
 }
 
 .circle-image {

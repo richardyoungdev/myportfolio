@@ -9,7 +9,7 @@ main {
 }
 
 h1 {
-  color: aqua;
+  color: #64ffda;
 }
 
 main h2 {
@@ -20,4 +20,6 @@ main h2 {
 
 .short-bio {
   width: 700px;
+  /* border: 2px aqua solid; */
+  text-align: center;
 }
